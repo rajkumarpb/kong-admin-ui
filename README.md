@@ -1,7 +1,5 @@
 # Kong admin UI
 
-[中文](README_zh.md)
-
 A Web UI for the Kong(The Cloud-Native API Gateway & Service Mesh) admin api.
 
 It's a font-end application,no need any back-end server.All requests to Kong admin api is send by user's browser.
